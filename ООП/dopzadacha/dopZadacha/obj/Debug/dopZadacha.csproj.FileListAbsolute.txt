@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ООП\dopzadacha\dopZadacha\bin\Debug\dopZadacha.exe.config
+C:\Users\User\Desktop\ООП\dopzadacha\dopZadacha\bin\Debug\dopZadacha.exe
+C:\Users\User\Desktop\ООП\dopzadacha\dopZadacha\bin\Debug\dopZadacha.pdb
+C:\Users\User\Desktop\ООП\dopzadacha\dopZadacha\obj\Debug\dopZadacha.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ООП\dopzadacha\dopZadacha\obj\Debug\dopZadacha.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ООП\dopzadacha\dopZadacha\obj\Debug\dopZadacha.exe
+C:\Users\User\Desktop\ООП\dopzadacha\dopZadacha\obj\Debug\dopZadacha.pdb
